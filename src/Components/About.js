@@ -1,6 +1,10 @@
 import React from 'react'
-import about from "../src/assets/images/About_Us_Banner_Desktop.webp"
+import about from "../assets/images/About_Us_Banner_Desktop.webp"
 export default function About() {
+
+
+
+
   return (
    <>
    <div style={{width:"100vw"}} className="About">
